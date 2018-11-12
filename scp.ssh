@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/scp   -oUserKnownHostsFile=/dev/null -oStrictHostKeyChecking=no ./*.conf root@118.24.105.81:~
